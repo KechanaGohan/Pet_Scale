@@ -1,6 +1,6 @@
 # Pet_Scale
 M5stackCore2を使用したペット体重計
-
+![IMG_0574](https://user-images.githubusercontent.com/102903015/161426584-a24594d5-95f2-42b6-bcc5-86c20412988e.jpg)
 M5stackCore2とGrove-125KHzRFIDリーダー、NAU7802を使用して作成したペット体重計です。   
 RFIDタグで個体管理しニフクラ mobile backendにデータが書き込まれます。
 RFIDタグを読ませたあとNAU7802モジュールで計測し、M5stackCore2で体重を表示します。計測結果が確定した後、データがニフクラ mobile backendへ送信されます。  
