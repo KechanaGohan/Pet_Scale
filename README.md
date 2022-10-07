@@ -36,4 +36,4 @@ https://mbaas.nifcloud.com/
 3)測定が完了すると画面に確定した値黄色でが表示されます。  
 4)Aボタンを押すと測定した値がリセットされ次の個体測定に移れます。  
 
-Qiitaの記事はこちらです。
+Qiitaの記事は[こちら](https://qiita.com/KechanaGohan/items/9b78bda3db15e4bc3aad#%E3%81%9D%E3%81%97%E3%81%A6%E5%AE%8C%E6%88%90%E3%81%B8)です。  
